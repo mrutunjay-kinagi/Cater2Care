@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <div className="login-container">
-      <h1>Hello !! Welcome to Cater2Care</h1>
+      <h1>Welcome to Cater2Care</h1>
       <button className="donor-button" onClick={handleDonorClick}>
         Are you a Donor?
       </button>
